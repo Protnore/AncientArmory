@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "aam:blocks/mossy_barrows_brick",
+        "top": "aam:blocks/mossy_barrows_brick",
+        "side": "aam:blocks/mossy_barrows_brick"
+    }
+}
